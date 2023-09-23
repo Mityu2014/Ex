@@ -1,0 +1,15 @@
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\bin\Debug\net6.0\Example001.exe
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\bin\Debug\net6.0\Example001.deps.json
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\bin\Debug\net6.0\Example001.runtimeconfig.json
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\bin\Debug\net6.0\Example001.dll
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\bin\Debug\net6.0\Example001.pdb
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\obj\Debug\net6.0\Example001.csproj.AssemblyReference.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\obj\Debug\net6.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\obj\Debug\net6.0\Example001.AssemblyInfoInputs.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\obj\Debug\net6.0\Example001.AssemblyInfo.cs
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\obj\Debug\net6.0\Example001.csproj.CoreCompileInputs.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\obj\Debug\net6.0\Example001.dll
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\obj\Debug\net6.0\refint\Example001.dll
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\obj\Debug\net6.0\Example001.pdb
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\obj\Debug\net6.0\Example001.genruntimeconfig.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example001\obj\Debug\net6.0\ref\Example001.dll
