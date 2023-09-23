@@ -1,0 +1,15 @@
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\obj\Debug\net6.0\Example004.csproj.AssemblyReference.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\obj\Debug\net6.0\Example004.GeneratedMSBuildEditorConfig.editorconfig
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\obj\Debug\net6.0\Example004.AssemblyInfoInputs.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\obj\Debug\net6.0\Example004.AssemblyInfo.cs
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\obj\Debug\net6.0\Example004.csproj.CoreCompileInputs.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\bin\Debug\net6.0\Example004.exe
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\bin\Debug\net6.0\Example004.deps.json
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\bin\Debug\net6.0\Example004.runtimeconfig.json
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\bin\Debug\net6.0\Example004.dll
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\bin\Debug\net6.0\Example004.pdb
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\obj\Debug\net6.0\Example004.dll
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\obj\Debug\net6.0\refint\Example004.dll
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\obj\Debug\net6.0\Example004.pdb
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\obj\Debug\net6.0\Example004.genruntimeconfig.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\Examples\Example004\obj\Debug\net6.0\ref\Example004.dll
